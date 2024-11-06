@@ -14,7 +14,7 @@ public class tryingtable : MonoBehaviour
                 Debug.Log(i * j);
                 j ++;
             }
-           // j = 1;
+            j = 1;
             i ++;
         }
         
