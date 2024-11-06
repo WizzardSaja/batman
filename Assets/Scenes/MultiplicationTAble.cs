@@ -9,7 +9,7 @@ public class MultiplicationTable : MonoBehaviour
     void Start()
     {
         
-       int number =5;
+       int number =5 ;
        for (int i =1 ; i <= 10 ; i++){
        int resut =Mutiply (number, i);
        Debug.Log (number +"x" +i + "=" + resut);
